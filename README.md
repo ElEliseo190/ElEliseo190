@@ -32,15 +32,15 @@
 ### My proyects 📁
 - [Nok-Store]
 
+
 #### More from 💳
 - I am  **CEO** of Forgez Company LLC
 - Contact me: [Twitter](https://twitter.com/xAEliseo190)
 - My discord: xAEliseo190#5878
-  
----
 
 
 ### Languages and Tools 🛠:
+
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
