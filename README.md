@@ -26,6 +26,20 @@
   }
 ```
 
+
+---
+
+### My proyects 📁
+- [Sytuns Security] 
+- [HyStoreX](https://github.com/Forgez-Studios-S-A/HyStoreX)
+
+#### More from 💳
+- I am  **CEO** of Forgez Company LLC
+- Contact me: [Twitter](https://twitter.com/alfredini_sh)
+- My discord: AlfredoSH#9930
+ <div align="center">
+  
+  
 ---
 
 
