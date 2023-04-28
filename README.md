@@ -26,6 +26,9 @@
   }
 ```
 
+---
+
+
 ### Languages and Tools 🛠:
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
@@ -40,26 +43,3 @@
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
 
 ---
-
-### My Projects ✨:
-  
-<a href="https://github.com/MrUniverse44/GuardianRFTB2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=GuardianRFTB2&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/MrUniverse44/PixelSkScoreboard">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=PixelSkScoreboard&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/MrUniverse44/PixelMOTD">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MrUniverse44&repo=PixelMOTD&theme=tokyonight" />
-</a>
-
----
-
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=MrUniverse44&show_icons=true&theme=react)
-
----
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrUniverse44&layout=compact&theme=react)
