@@ -34,7 +34,7 @@
 
 
 #### More from 💳
-- I am  **CEO** of Forgez Company LLC
+- I am **CEO** of TheNokStore Company
 - Contact me: [Twitter](https://twitter.com/xAEliseo190)
 - My discord: xAEliseo190#5878
 
